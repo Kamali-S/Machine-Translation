@@ -3,3 +3,4 @@ Test data:
 1. I am going to sleep
 2. I am going to work
 The translated audio file is attached in the name of its input text.
+The audio file is not direclty playing in the Github repository. Try by downloading it.
