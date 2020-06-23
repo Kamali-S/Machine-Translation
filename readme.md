@@ -1,3 +1,5 @@
+![Screenshot](MT.jpg)
+
 Machine Translation Project - Application of Natural Language Processing
 - Used Transfromers with Attention mechanism
 - Gated Recurrent Units are also added in building the model as it solves the problem of Vanishing Gradient during backpropagation
